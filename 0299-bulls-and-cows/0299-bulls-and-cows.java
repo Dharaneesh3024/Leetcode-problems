@@ -6,17 +6,14 @@ class Solution {
             char s=secret.charAt(i);
             char g=guess.charAt(i);
             if(s==g){
-                bulls++;
-            }
+                bulls++;}
             else{
                 if(hsh[s-'0']++<0){
                     cows++;
                 }
                 if(hsh[g-'0']-->0){
                     cows++;
-                }
-            }
-        }
+                }}}
         return bulls+"A"+cows+"B";
     }
 }
