@@ -542,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0543-diameter-of-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0199-binary-tree-right-side-view) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1971-find-if-path-exists-in-graph) |
 ## Enumeration
 |  |
 | ------- |
@@ -573,4 +575,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0039-combination-sum) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
