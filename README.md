@@ -533,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0199-binary-tree-right-side-view) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0543-diameter-of-binary-tree) |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0199-binary-tree-right-side-view) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0543-diameter-of-binary-tree) |
@@ -556,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0199-binary-tree-right-side-view) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0543-diameter-of-binary-tree) |
@@ -566,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0199-binary-tree-right-side-view) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1971-find-if-path-exists-in-graph) |
 ## Enumeration
