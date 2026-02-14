@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1441-build-an-array-with-stack-operations) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1503-reducing-dishes](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1503-reducing-dishes) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0898-transpose-matrix) |
 | [1048-clumsy-factorial](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1048-clumsy-factorial) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1441-build-an-array-with-stack-operations) |
 | [2058-concatenation-of-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0844-backspace-string-compare) |
 | [1048-clumsy-factorial](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1048-clumsy-factorial) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1441-build-an-array-with-stack-operations) |
 | [2470-removing-stars-from-a-string](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2470-removing-stars-from-a-string) |
 ## Hash Table
 |  |
