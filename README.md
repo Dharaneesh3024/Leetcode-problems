@@ -542,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0226-invert-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0543-diameter-of-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0226-invert-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0543-diameter-of-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0226-invert-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0543-diameter-of-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -582,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0226-invert-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1971-find-if-path-exists-in-graph) |
 ## Enumeration
 |  |
