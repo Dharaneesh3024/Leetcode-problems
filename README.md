@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-monotonic-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0932-monotonic-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0994-rotting-oranges](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0994-rotting-oranges) |
 | [1019-squares-of-a-sorted-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1319-unique-number-of-occurrences) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0898-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0994-rotting-oranges) |
 ## Simulation
 |  |
 | ------- |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0226-invert-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1971-find-if-path-exists-in-graph) |
 ## Enumeration
 |  |
