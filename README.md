@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0435-non-overlapping-intervals) |
 | [1013-fibonacci-number](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1086-divisor-game) |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1503-reducing-dishes](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1503-reducing-dishes) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
@@ -629,9 +630,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1971-find-if-path-exists-in-graph) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0225-implement-stack-using-queues) |
+## Shortest Path
+|  |
+| ------- |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->
