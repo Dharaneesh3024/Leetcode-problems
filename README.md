@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0645-set-mismatch) |
@@ -624,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0078-subsets) |
 ## Union-Find
 |  |
 | ------- |
