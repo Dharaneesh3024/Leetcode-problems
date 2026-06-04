@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0078-subsets) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0498-diagonal-traverse) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0657-robot-return-to-origin) |
