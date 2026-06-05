@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0027-remove-element) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0010-regular-expression-matching) |
+| [0014-longest-common-prefix](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0091-decode-ways) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0014-longest-common-prefix) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Counting Sort
 |  |
