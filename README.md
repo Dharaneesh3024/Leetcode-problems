@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1400-construct-k-palindrome-strings](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1400-construct-k-palindrome-strings) |
 | [1660-thousand-separator](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1660-thousand-separator) |
 | [1894-merge-strings-alternately](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1319-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1400-construct-k-palindrome-strings](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1400-construct-k-palindrome-strings) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0605-can-place-flowers) |
 | [0917-boats-to-save-people](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0917-boats-to-save-people) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1400-construct-k-palindrome-strings](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1400-construct-k-palindrome-strings) |
 | [1503-reducing-dishes](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1503-reducing-dishes) |
 | [1961-maximum-ice-cream-bars](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1961-maximum-ice-cream-bars) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2007-find-original-array-from-doubled-array) |
@@ -472,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0594-longest-harmonious-subsequence) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1400-construct-k-palindrome-strings](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1400-construct-k-palindrome-strings) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1635-number-of-good-pairs) |
